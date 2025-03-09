@@ -1,4 +1,4 @@
-# CysTeam: CSEA (Cysteine Set Enrichment Analysis) Web Application
+# CysTeam
 
 <div align="center">
 
